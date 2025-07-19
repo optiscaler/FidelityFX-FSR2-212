@@ -1,4 +1,7 @@
-# FidelityFX Super Resolution 2.1 (FSR 2.1.2)
+## Build libs
+Run `BuildLibs.bat` from the `build` folder. Compiled libs are located in `bin` in the main repo folder.
+
+# FidelityFX Super Resolution 2.2 (FSR 2.2.1)
 
 Copyright (c) 2022 Advanced Micro Devices, Inc. All rights reserved.
 

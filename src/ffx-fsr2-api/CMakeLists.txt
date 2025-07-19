@@ -54,6 +54,7 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY_RELEASE ${CMAKE_HOME_DIRECTORY}/bin/ffx_fsr2_
 
 add_compile_definitions(_UNICODE)
 add_compile_definitions(UNICODE)
+add_compile_definitions(_DISABLE_CONSTEXPR_MUTEX_CONSTRUCTOR)
 #add_compile_definitions(FSR2_VERSION_MAJOR=0)
 #add_compile_definitions(FSR2_VERSION_MINOR=1)
 #add_compile_definitions(FSR2_VERSION_PATCH=0)
